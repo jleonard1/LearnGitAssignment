@@ -5,3 +5,4 @@ Favorite Food: Spaghetti
 Favorite Movie: Romantic Comedy (Genre)
 GitHub Username: JLeonard
 LinkedIn Username: Jleonard2463@gmail.com
+HackerRank: N/A
